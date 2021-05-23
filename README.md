@@ -4,5 +4,7 @@
  Students and faculty can view and edit their profiles after logging into their accounts and even view their respective time tables for the week.
 
 # Installation
-Install Turbo C++ compiler to run. Add main project file to `bin` directory and then run application.
+Requires the ancient Turbo C++ compiler to run. 
+Add main project file to `bin` directory and .h files to the `include` directory  
 
+ 
